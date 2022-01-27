@@ -39,11 +39,6 @@ Note: I have only interviewed with a single company as of now. I researched a lo
 - Tries
 - Graphs
 
-## YouTube Channels for LeetCode Solutions and Explanations
-
-- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA/featured)
-- [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
-
 ## Free Resources  [Non-Affliation]
 
 ### Raywenderlich Swift Algorithm Club
