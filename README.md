@@ -3,13 +3,11 @@ My solutions to LeetCode problems written in Swift :grimacing:
  
 ![Leetcode](./LeetCode-in-Swift.jpg?style=centerme)
 
-## LeetCode Profile - https://leetcode.com/rudrankriyam/
+## LeetCode Profile - https://leetcode.com/vijaykannann/
 
 For any queries or doubt, contact me on -  
-Twitter - https://twitter.com/rudrankriyam  
-LinkedIn - https://www.linkedin.com/in/rudrankriyam/  
+LinkedIn - https://www.linkedin.com/in/vijay-k-761a54b6/  
 
-Inspired by the repository by Yi Gu! [https://github.com/soapyigu/LeetCode-Swift]
 
 # List of Questions (Current Count: 226)
 
@@ -28,13 +26,6 @@ Note: I have only interviewed with a single company as of now. I researched a lo
 # Behavioral Questions
 
 ## Resume Screening
-
-
-# iOS/Technical Questions
-
-## YouTube Playlists
-- [Sean Allen's Swift Interview Tips](https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA)
-- [Brian Voong's Swift Fun Algorithms](https://www.youtube.com/playlist?list=PL0dzCUj1L5JFJlR7dpBfBtEJB84pCZJ3R)
 
 # Data Structures and Algorithms Questions
 
